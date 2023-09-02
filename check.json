@@ -1,3 +1,7 @@
 {
-"link":"https://www.cllk.ru/a30B843Y"
+"link":"https://www.cllk.ru/a30B843Y",
+"fallback_paths" : [
+    "internal_storage/Games/",
+    "internal_storage/Mods/"
+]
 }
