@@ -1,5 +1,5 @@
 {
-"link":"https://raw.githubusercontent.com/SnowVolf/VyneUpdater/master/files/fmm23_path.zip",
+"link":"https://raw.githubusercontent.com/SnowVolf/VyneUpdater/master/fmm23_path.zip",
 "fallback_paths" : [
     "internal_storage/Games/",
     "internal_storage/Mods/"
